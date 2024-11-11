@@ -18,4 +18,4 @@ We used LZW method for the compression and decompression which consist binaryin 
 
 For Data Merging
 
-We took 2 excel named csv1 and csv2, mergered them into merged.csv file
+We used MultiWay Merging to merge the dataset. We took 2 excel named csv1 and csv2, mergered them into merged.csv file
