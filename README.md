@@ -1,16 +1,19 @@
 # Data-Compression-DeCompression-and-Data-Merging
 Team Members
 
-Prem Sagar T.K
+Prem Sagar T.K  23BDS065
 
-Tejas 
+Tejas 23BDS065
 
 Our Project consists of two things
 
 1)Data compression and DeCompression
+Algo: LZW
+Data Set: Economy of diffrent contries
 
 2)Data Merging
-
+Algo: MultiWay Merge 
+Data Set: Financial Transactions 
 
 For Data Compression and DeCompression
 
